@@ -1,5 +1,5 @@
 # Overview
-The purpose of this analysis is to analyze the CitiBike data in New York City in order to give a presentation to investors interested in beginning a BikeShare program in Des Moines in Iowa. This data provides visual information on who uses this program, which area of the city uses it the most, and the hours in which it is most used. 
+The purpose of this analysis is to analyze the CitiBike data in New York City in order to give a presentation to investors interested in beginning a BikeShare program in Des Moines, Iowa. This data provides visual information on who uses this program, which area of the city uses it the most, and the hours in which it is most used. 
 This visual representation is provided in the follow link:
 https://public.tableau.com/views/CitiBikeChallengeProject/DataBasedOnHoursandLocations?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
